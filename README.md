@@ -13,8 +13,6 @@ This project demonstrates how to configure the osTicket ticketing system by sett
 - Windows 10 VM: Virtual environment used for hosting and configuring the ticketing system.
 - RDP: Remote Desktop Protocol for securely accessing the Azure-hosted VM.
 
-- Networking Protocols; ICMP, SSH, RDP, DNS, DHCP
-
 <h2>Key Objectives:</h2>
 
 - Role-Based Configuration: Define and assign roles, permissions, and teams within osTicket, ensuring proper access and     workflow management.
