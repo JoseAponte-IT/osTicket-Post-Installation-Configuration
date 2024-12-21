@@ -123,11 +123,18 @@ This project demonstrates how to configure the osTicket ticketing system by sett
 
 # 🎉Congratulations
 
+ OsTicket is up and running and fully configured for use 🌝. In the next lab we will create tickets and resolve them as a support engineer. Familarizing ourselves with ticket life cycles, SLA, and GOOD 'OL TROUBLESHOOTING🤓.
+
 <h2>We Have Successfully:</h2>
 
 - Configured a ticketing system by setting up departments, agents, users, roles, permissions, and teams.
+
 - Streamlined the ticket process for both clients and support engineers by creating help topics.
+
 - Hosted and managed the ticketing system using a Microsoft Azure Windows 10 Virtual Machine.
+
 - Accessed the Virtual Machine securely through RDP for seamless configuration and management.
 
-# That Concludes this lab, osTicket is up and running and fully configured for use 🌝. In the next lab we will create tickets and resolve them as a support engineer. Familarizing ourselves with ticket life cycles, SLA, and GOOD 'OL TROUBLESHOOTING🤓. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# That Concludes this lab<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+In the next and last lab we will learn about ticket lifecycles and how to troubleshoot tickets correctly.
